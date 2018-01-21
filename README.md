@@ -2,7 +2,7 @@
 ## Description
 A TodoList app in Javascript.
 
-## Screeshot
+## Screenshot
 ![image1](https://github.com/nicolaschen1/TodoList/blob/master/todoList_image.PNG)
 
 ## Author
